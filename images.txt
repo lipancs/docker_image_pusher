@@ -1,3 +1,3 @@
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
-minio/minio:RELEASE.2021-11-05T09-16-26Z.fips
+minio/minio:RELEASE.2025-03-12T18-04-18Z
