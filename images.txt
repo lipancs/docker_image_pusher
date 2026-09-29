@@ -1,3 +1,5 @@
 #支持指定架构
 #--platform=linux/amd64 xiaoyaliu/alist
-eclipse-temurin:17-jre-alpine
+redis:7-alpine
+minio/minio:latest
+nginx:1.25-alpine
